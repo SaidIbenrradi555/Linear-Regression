@@ -28,7 +28,7 @@ pip install matplotlib
 ```
 
 ## Utilisation
-Le fichier Linear Regression.ipynb contient une implémentation simple de la régression linéaire. utilisant des bibliothèques telles que numpy, scipy, pandas, et matplotlib.
+Le fichier Linear `Regression.ipynb` contient une implémentation simple de la régression linéaire. utilisant des bibliothèques telles que numpy, scipy, pandas, et matplotlib.
 
 ## Lancer le projet en utilisant Jupyter Notebook
 
